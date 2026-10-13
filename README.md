@@ -2,8 +2,8 @@
 > Pick the color. Earn points. Beat your best score!
 
 ## Authorship
-- Author: Your Name
-- GitHub: https://github.com/YOUR-USERNAME
+- Author: Jacobe Johnson
+- GitHub:(https://jacobej15.github.io/color-guessing-game/)
 - Date: October 12, 2026
 - Version: 1.0
 
