@@ -38,9 +38,7 @@ a leaderboard.
 - assets/css/style.css
 - assets/js/script.js
 - assets/js/full.js
-
 - color-box-guessing/
-│
 ├── index.html
 │
 ├── pages/
@@ -91,6 +89,6 @@ Explain what sessionStorage saves and what browser
 information the game collects.
 
 ### Sprint 99 / Future Ideas
-- Add more colors and difficulty levels.
+- Add more colors.
 - Add sound effects and a mute option.
-- Improve the leaderboard and accessibility.
+- Add leaderboard and accessibility.
