@@ -85,7 +85,7 @@ function and updates the score and page.
 Explain what sessionStorage saves and what browser
 information the game collects.
 
-### Sprint 99 / Future Ideas
+### Future Ideas
 - Add more colors.
 - Add sound effects and a mute option.
 - Add leaderboard and accessibility.
