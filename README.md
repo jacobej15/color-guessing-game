@@ -39,6 +39,31 @@ a leaderboard.
 - assets/js/script.js
 - assets/js/full.js
 
+- color-box-guessing/
+│
+├── index.html
+│
+├── pages/
+│   └── full.html
+│
+├── assets/
+│   ├── css/
+│   │   ├── style.css
+│   │   └── full.css
+│   │
+│   ├── js/
+│   │   ├── script.js
+│   │   └── full.js
+│   │
+│   └── images/
+│       └── screenshot.png
+│
+├── docs/
+│   └── wireframe.md
+│
+├── README.md
+└── .gitignore
+
 ### Technologies and Tools
 - HTML5
 - CSS3
