@@ -38,8 +38,8 @@ a leaderboard.
 - assets/css/style.css
 - assets/js/script.js
 - assets/js/full.js
-- color-box-guessing/
-├── index.html
+
+///├── index.html
 │
 ├── pages/
 │   └── full.html
@@ -60,7 +60,7 @@ a leaderboard.
 │   └── wireframe.md
 │
 ├── README.md
-└── .gitignore
+└── .gitignore///
 
 ### Technologies and Tools
 - HTML5
