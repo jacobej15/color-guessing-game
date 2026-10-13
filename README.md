@@ -1,6 +1,3 @@
-# color-guessing-game
-
-
 # Color Box Guessing
 > Pick the color. Earn points. Beat your best score!
 
