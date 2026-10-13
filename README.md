@@ -20,6 +20,12 @@ The full version adds difficulty, hints, a timer, and
 a leaderboard.
 
 ## About the App
+Version 1 – Concept: A basic game that randomly selects a color, allows players to guess, and provides feedback.
+
+Version 2 – Full Game: An enhanced version with features such as scoring, a timer, game-ending messages, and a scoreboard.
+
+<img width="638" height="440" alt="image" src="https://github.com/user-attachments/assets/3f6eb65d-40e9-435f-8fa7-cd52f427b27d" />
+
 
 ### Planning Issue and Game Ideas
 [Link to your GitHub issue](PASTE-ISSUE-URL)
