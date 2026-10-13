@@ -33,13 +33,9 @@ Version 2 – Full Game: An enhanced version with features such as scoring, a ti
 ### Planning Issue and Game Ideas
 (https://github.com/jacobej15/color-guessing-game/issues/1#issue-5822268042)
 
-### Wireframe and Wiki
-Wireframe
-http://127.0.0.1:5500/index.html
-
+### Wiki
 Wiki
-[(https://jacobej15.github.io/color-guessing-game/)
-](http://127.0.0.1:5500/pages/full.html)
+(https://github.com/jacobej15/color-guessing-game.wiki.git)
 ### Directory Structure
 - index.html
 - pages/full.html
