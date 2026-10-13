@@ -35,7 +35,7 @@ Version 2 – Full Game: An enhanced version with features such as scoring, a ti
 
 ### Wiki
 Wiki
-https://github.com/jacobej15/color-guessing-game.wiki.git
+(https://github.com/jacobej15/color-guessing-game/wiki)
 ### Directory Structure
 - index.html
 - pages/full.html
