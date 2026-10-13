@@ -28,7 +28,7 @@ Version 2 – Full Game: An enhanced version with features such as scoring, a ti
 
 
 ### Planning Issue and Game Ideas
-[Link to your GitHub issue](PASTE-ISSUE-URL)
+(https://github.com/jacobej15/color-guessing-game/issues/1#issue-5822268042)
 
 ### Wireframe and Wiki
 [View the wireframe](PASTE-WIREFRAME-URL)
