@@ -16,8 +16,8 @@
 Color Box Guessing is a browser game where players
 identify colors, earn points, and compete for a top score.
 The concept version demonstrates the core game mechanics.
-The full version adds difficulty, hints, a timer, and
-a leaderboard.
+The full version adds a slight difficulty, hints, a timer, and
+a scoreboard.
 
 ## About the App
 Version 1 – Concept: A basic game that randomly selects a color, allows players to guess, and provides feedback.
@@ -42,6 +42,8 @@ Wiki
 - assets/css/style.css
 - assets/js/script.js
 - assets/js/full.js
+- assets/css/full.js
+- assets/images/screenshot.png
 
 ```├── index.html
 │
