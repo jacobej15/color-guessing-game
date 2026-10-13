@@ -26,6 +26,9 @@ Version 2 – Full Game: An enhanced version with features such as scoring, a ti
 
 <img width="638" height="440" alt="image" src="https://github.com/user-attachments/assets/3f6eb65d-40e9-435f-8fa7-cd52f427b27d" />
 
+<img width="642" height="731" alt="image" src="https://github.com/user-attachments/assets/1b7d53c1-196b-4535-8cbf-6c622249f0df" />
+
+
 
 ### Planning Issue and Game Ideas
 (https://github.com/jacobej15/color-guessing-game/issues/1#issue-5822268042)
@@ -42,7 +45,7 @@ Version 2 – Full Game: An enhanced version with features such as scoring, a ti
 - assets/js/script.js
 - assets/js/full.js
 
-///├── index.html
+```├── index.html
 │
 ├── pages/
 │   └── full.html
@@ -59,11 +62,8 @@ Version 2 – Full Game: An enhanced version with features such as scoring, a ti
 │   └── images/
 │       └── screenshot.png
 │
-├── docs/
-│   └── wireframe.md
-│
 ├── README.md
-└── .gitignore///
+└── .gitignore```
 
 ### Technologies and Tools
 - HTML5
